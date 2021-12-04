@@ -4,5 +4,5 @@ Training an artificial intelligence Painting Agent that can paint strokes on a c
 
 The notebooks contain demonstrations of the how to generate images using Deep Reinforcement Learning using neural renderers and deep deterministic policy gradient
 
-#Ref
+## References
 The code is derived from https://github.com/megvii-research/ICCV2019-LearningToPaint
